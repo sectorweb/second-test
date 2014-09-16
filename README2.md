@@ -1,1 +1,6 @@
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est necessitatibus, natus fugiat enim et reprehenderit ipsum impedit iste in unde excepturi atque nesciunt nulla, qui? Animi itaque, adipisci libero voluptatibus?
+GitHub
+====
+
+https://github.com/Mejorandola/clase-de-github
+
+https://help.github.com/articles/generating-ssh-keys
